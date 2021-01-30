@@ -27,7 +27,7 @@ const Footer = () => {
           </div>
           <span>
             2020{" "}
-            <a href="dannykhoai.github.io/aboutme">Dung Vu</a>
+            <a href="">Dung Vu</a>
           </span>
         </div>
       </div>
