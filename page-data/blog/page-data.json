@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-blog-js","path":"/blog/","result":{"pageContext":{}},"staticQueryHashes":["63159454"]}
+{"componentChunkName":"component---src-pages-blog-js","path":"/blog/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"b08e68c9-9f31-56a9-9b3f-4c5216e669d1","excerpt":"It sometimes get to a point that I need to get off my computer and do something else","frontmatter":{"date":"October 04, 2021","slug":"/blog/aquaculture","title":"Aquaculture Setup"}}}]}},"pageContext":{}},"staticQueryHashes":[]}
